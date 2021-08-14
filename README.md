@@ -42,7 +42,7 @@ yarn ui
 Currently testing with Clarity, Solitary contracts open a new issue here on GitHub or leave a comment on the Cloud page.
 
 ## Architect / Creator
-Crypto-County was created by and is maintained by **[Andrew S Thompson](http://facebook.com/mrinternet305)**, Owner of [Entercloud LLC](http://entercloud.info).
+Crypto-County was created by and is maintained by **[Andrew S Thompson](https://www.linkedin.com/in/cloudchief/)**, Owner of [Entercloud LLC](http://entercloud.info).
 
 * https://twitter.com/andrewpsp
 * https://github.com/andrewpsp
